@@ -10,3 +10,11 @@ This repository contains an interactive **Python + Streamlit** demo that showcas
 - Basic Retrieval-Augmented Generation (RAG)
 
   
+## Installation
+```
+python -m venv .venv
+
+source .venv/bin/activate
+
+pip install -r requirements.txt
+```
